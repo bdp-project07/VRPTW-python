@@ -1,5 +1,4 @@
-=============================================================================================
-Project Title: 
+
 Virtual Reality-based Analysis of Vehicle Routing Problems with Time Windows (VRPTW Analysis)
 =============================================================================================
 
